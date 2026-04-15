@@ -19,7 +19,7 @@ const Header = () => {
           <div className="flex h-9 w-9 items-center justify-center rounded-lg gradient-primary">
             <FileSearch className="h-5 w-5 text-primary-foreground" />
           </div>
-          <span className="text-lg font-bold text-foreground">TZ Analyzer</span>
+          <span className="text-lg font-bold text-foreground">R&D Project Analyzer</span>
         </Link>
         <nav className="flex items-center gap-1">
           {navItems.map((item) => (

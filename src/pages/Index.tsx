@@ -112,7 +112,7 @@ const Index = () => {
       {/* Footer */}
       <footer className="border-t py-8 text-center text-sm text-muted-foreground">
         <div className="container">
-          TZ Analyzer — AI-система анализа технических заданий
+          R&D Project Analyzer — AI-система анализа технических заданий
         </div>
       </footer>
     </div>
